@@ -1,18 +1,57 @@
-## Getting Started
+# ATM Simulation System
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Overview
+The ATM Simulation System is a Java-based console application that simulates the core functionalities of an Automated Teller Machine (ATM). It allows users to perform basic banking operations securely through a menu-driven interface while demonstrating Object-Oriented Programming concepts.
 
-## Folder Structure
+ Features
 
-The workspace contains two folders by default, where:
+- User Authentication
+- Balance Inquiry
+- Cash Deposit
+- Cash Withdrawal
+- PIN Change
+- Cardless Transaction
+- Transaction History
+- Input Validation
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Technologies Used
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java
+- Object-Oriented Programming (OOP)
+- Java Collections
+- Console-Based Interface
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+ How to Run
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clone the repository
+
+```bash
+git clone https://github.com/Ramina115/ATM-Simulation-System.git
+```
+
+2. Open the project in your preferred Java IDE.
+
+3. Compile and run `Main.java`.
+
+ Learning Outcomes
+
+- Java Programming
+- Object-Oriented Design
+- User Authentication Logic
+- Banking Transaction Simulation
+- Exception Handling
+
+ Future Improvements
+
+- GUI using Java Swing or JavaFX
+- MySQL Database Integration
+- Multiple User Accounts
+- Transaction Receipts
+- Admin Dashboard
+
+ Author
+
+**Ramina Shrestha**
+
+BSc CSIT Student 
